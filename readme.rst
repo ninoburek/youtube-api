@@ -1,4 +1,4 @@
 Youtube api :)
 
 Change Google Api Key in
-application\controllers\Welcome.php line 23
+application/controllers/Welcome.php line 23
