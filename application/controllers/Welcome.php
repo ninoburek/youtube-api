@@ -43,7 +43,7 @@ class Welcome extends CI_Controller {
 		
 		
 		//FOOTER
-		$footer_vars['GOOGLE_API_KEY'] = 'AIzaSyDZBKclHQpYNX6lObQPChY7BHWh0j6aqUU';
+		$footer_vars['GOOGLE_API_KEY'] = 'YOUT_GOOGLE_API_KEY_HERE';
 		
 		
 		// --- end variables
